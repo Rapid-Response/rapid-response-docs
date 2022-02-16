@@ -5,7 +5,7 @@
     - [Github](https://github.com/Rapid-Response/rapid-response-docs)
 
 - **Community**
-  - [User Docs](Docs/README.md)
+  - [User Docs](/Docs/User%20Docs.md)
   - [Slack Channel]()
   - [WhatsApp Channel]()
 
