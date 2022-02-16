@@ -2,9 +2,17 @@
 
 Hello and welcome to our User Documentation. A UI friendly documentation could be found here: https://rapid-response.helpscoutdocs.com/
 
+---
 
-## Start Here
-- [Introduction Videos](Docs/Introduction%20Videos.md)
+  ## Introduction Videos
+  On this page, you'll find videos to introduce you to the main features of Rapid Response. 
+  For more in-depth videos about certain features you saw in the introduction videos, please explore the other articles in the Help Center.
+  #### Main Dashboard
+  First, watch the following video about the Main Dashboard in Rapid Response.***\
+  #### Hotline Dashboard
+  Second, watch the following video about the Hotline Dashboard in Rapid Response. 
+
+
 - [Login into your Account](Login%20to%20your%20account.md)
 - [Reset Password](Docs/Reset%20Password.md)
 
