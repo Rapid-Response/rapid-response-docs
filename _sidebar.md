@@ -7,7 +7,7 @@
 - **Community**
   - [User Docs](/Docs/User%20Docs.md)
   - [Slack Channel]()
-  - [WhatsApp Channel]()
+  - [WhatsApp Channel](https://chat.whatsapp.com/CECryKM8zOG3N1l7mqYj0y)
 
 - **Contact Us**
   - [Contact]()
