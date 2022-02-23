@@ -1,3 +1,6 @@
+![Rapid Response Logo](/assets/logo.png)
+
+
 ### An open-source communication platform designed for grassroots organizations
 ---
 Thank you for your interest in Rapid Response! If you're here for the first time, read this page to learn more about our software. Otherwise, you can use the sidebar and the search on the left to find what you're looking for.
@@ -7,7 +10,7 @@ Thank you for your interest in Rapid Response! If you're here for the first time
 ----
 Rapid Response allows you to create and manage hotlines to answer calls (and text messages) from community members. Dozens of community groups use Rapid Response to provide an open channel for community members to reach real people for help. You and your team of volunteers can log into Rapid Response to answer calls and send text messages. We offer the source code to help you launch your own Rapid Response instance or you can contact us for a hosted cloud version. 
 
-#### Frequently Asked Questions
+### Frequently Asked Questions
 ----
 
 - ##### **Our group doesn’t want to install and manage Rapid Response on a server.**

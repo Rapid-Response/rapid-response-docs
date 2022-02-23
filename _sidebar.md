@@ -1,13 +1,14 @@
 
 - **Introduction**
-    - [Home](README.md)
-    - [About](Docs/About%20Rapid%20Response.md)
+    - [Home](/#)
+    - [About](/About%20Rapid%20Response.md)
     - [Github](https://github.com/Rapid-Response/rapid-response-docs)
 
 - **Community**
-  - [User Docs](/Docs/User%20Docs.md)
-  - [Slack Channel]()
-  - [WhatsApp Channel](https://chat.whatsapp.com/CECryKM8zOG3N1l7mqYj0y)
-
+  - [User docs](/Docs/User%20Docs.md)
+    - [Start here](/Docs/Start%20Here.md)
+    - [Calls]()
+  - [Slack channel](https://github.com)
+  
 - **Contact Us**
-  - [Contact]()
+  - [Contact](/Contact%20Us.md)
