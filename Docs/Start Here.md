@@ -8,11 +8,16 @@
 ## Watch Introduction Videos
 ***
 
-#### Main Dashboard
+### Main Dashboard
 First, watch the following video about the Main Dashboard in Rapid Response.
 
+<iframe src="https://www.youtube.com/embed/f6EVq4SPi9I" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="415" frameborder="0" class="px-8"></iframe>
 
-#### Hotline Dashboard
+
+### Hotline Dashboard
 Second, watch the following video about the Hotline Dashboard in Rapid Response.
+
+<iframe src="https://www.youtube.com/embed/GAWeZJKTNlI" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="415" frameborder="0" class="px-8">
+</iframe>
 
 

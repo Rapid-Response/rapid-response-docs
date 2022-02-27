@@ -32,9 +32,6 @@ Rapid Response has been used by more than 42 organizations to operate their ICE 
 In early 2022 the Rapid Response entered a new stage: becoming an open source software available for any community organization to self-host on their own servers. The founders also continue to provide hosting to its existing users and new groups interested in getting technical support to manage their hotlines. 
 
 
-<iframe width="560" height="415" src="https://www.youtube.com/embed/w0-A-zafCGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="px-8"></iframe>
-
-
 
 ### Our Team
 
@@ -49,6 +46,9 @@ The work of our users has been featured in USA Today, Mother Jones, the New York
 - https://www.motherjones.com/politics/2019/06/rapid-response-network-santa-clara-training-ice-immigration/
 
 - https://www.usatoday.com/story/news/2017/12/10/rapid-responders-aim-document-ice-activities/939416001/
+
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/w0-A-zafCGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen class="px-8"></iframe>
 
 
 </div>
