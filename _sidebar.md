@@ -10,4 +10,4 @@
   - [🤝 Slack](https://github.com)
   
 - **Contact Us**
-  - [Contact](/Contact%20Us.md)
+  - [Contact](/contact.html)

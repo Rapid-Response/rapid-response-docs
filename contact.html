@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]>      <html class="no-js"> <!--<![endif]-->
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="">
+        <script src="https://cdn.tailwindcss.com"></script>
+        <script src="https://cdn.tailwindcss.com?plugins=typography,forms"></script>
+
+
+    </head>
+    <body>
+        <div class="w-full max-w-none h-screen flex items-center justify-center">
+
+            <form name="contact" method="POST" netlify netlify-honeypot="bot-field"  data-netlify-recaptcha="true">
+              <p class="hidden">
+                <label>
+                  Don’t fill this out if you’re human: <input name="bot-field" />
+                </label>
+              </p>
+              <p>
+                <label class="flex flex-col">Your Name: <input type="text" name="name" /></label>   
+              </p>
+              <p>
+                <label class="flex flex-col">Your Email: <input type="email" name="email" /></label>
+              </p>
+              <p>
+                <label class="flex flex-col">Message: <textarea name="message"></textarea></label>
+              </p>
+              <p>
+                <button class="border border-black px-4 " type="submit">Send</button>
+              </p>
+              <p><div class="m-8" data-netlify-recaptcha="true"></div></p>
+            </form>
+            
+            
+            
+            
+            </div>
+        
+        <script src="" async defer></script>
+    </body>
+</html>
