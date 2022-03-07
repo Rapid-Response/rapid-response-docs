@@ -7,7 +7,7 @@
 - **Community**
   - [🔑 Start here](/Docs/Start%20Here.md)
   - [📚 Helpdesk](https://helpdesk.rapidresponse.io)
-  - [🤝 Slack](https://github.com)
+  - [🤝 Slack](/slack.md)
   
 - **Contact Us**
   - [Contact](/contact.html)
