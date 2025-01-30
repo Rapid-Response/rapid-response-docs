@@ -2,7 +2,7 @@
 
 ![Rapid Response Logo](/assets/logo.png ":size=15%")
 
-*An open-source communication platform designed for grassroots organizations*
+*A communication platform designed for grassroots organizations*
 
 </center>
 
