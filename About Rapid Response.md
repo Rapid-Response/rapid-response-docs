@@ -43,10 +43,6 @@ In 2020, due to COVID-19 pandemic, Rapid Response became a generalized software 
 In early 2022 the Rapid Response entered a new stage: becoming an open source software available for any community organization to self-host on their own servers. The founders also continue to provide hosting to its existing users and new groups interested in getting technical support to manage their hotlines. 
 
 
-### Our Team
-
-![team](assets/about/team.png)
-
 ### In The News
 
 The work of our users has been featured in USA Today, Mother Jones, the New York Times, and numerous local news publications. 
