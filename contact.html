@@ -6,44 +6,78 @@
         <title>Contact Us</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="">
         <script src="https://cdn.tailwindcss.com"></script>
         <script src="https://cdn.tailwindcss.com?plugins=typography,forms"></script>
-
-
     </head>
     <body>
-        <div class="w-full max-w-none h-screen flex justify-center">
-
-
-            <form name="contact" method="POST" netlify netlify-honeypot="bot-field"  action="/#" class="w-full pr-10">
-                <h2>Contact us</h2> 
-             <p class="hidden">
-                <label>
-                  Don’t fill this out if you’re human: <input name="bot-field" />
-                </label>
-              </p>
-              <p>
-                <label class="flex flex-col">Your Name: <input type="text" name="name" /></label>   
-              </p>
-              <p>
-                <label class="flex flex-col">Your Organization: <input type="text" name="organization" /></label>   
-              </p>
-              <p>
-                <label class="flex flex-col">Your Email: <input type="email" name="email" /></label>
-              </p>
-              <p>
-                <label class="flex flex-col">Message: <textarea name="message"></textarea></label>
-              </p>
-              <p>
-                <button class="border border-black px-4" type="submit">Send</button>
-              </p>
-              
+        <div class="w-full max-w-2xl mx-auto h-screen flex justify-center items-start pt-10">
+            <form name="contact" method="POST" netlify netlify-honeypot="bot-field"  action="/#" class="w-full px-6">
+                <h2 class="text-3xl font-bold mb-6 text-gray-900">Contact us</h2>
+                
+                <div class="mb-8 p-6 bg-blue-50 border border-blue-200 rounded-lg">
+                    <h3 class="font-semibold text-blue-900 mb-3">Please note:</h3>
+                    <p class="text-sm text-blue-800 mb-3">
+                        Rapid Response works on a "Bring Your Own Twilio" model. You'll need your own 
+                        <a href="https://www.twilio.com/" class="text-blue-600 hover:text-blue-800 underline" target="_blank">Twilio account</a> 
+                        and if you want to send SMS and SMS campaigns you'll need to complete the Twilio A2P registration.
+                    </p>
+                    <p class="text-sm text-blue-800">
+                        Please see our 
+                        <a href="https://helpdesk.rapidresponse.io/article/52-signing-up-for-rapid-response" 
+                           class="inline-flex items-center text-blue-600 hover:text-blue-800 underline font-medium" 
+                           target="_blank">
+                            📋 complete setup instructions
+                        </a>.
+                    </p>
+                </div>
+                
+                <p class="hidden">
+                    <label>
+                      Don't fill this out if you're human: <input name="bot-field" />
+                    </label>
+                </p>
+                
+                <div class="space-y-6">
+                    <div>
+                        <label class="flex flex-col">
+                            <span class="mb-2 font-medium text-gray-700">Your Name:</span> 
+                            <input type="text" name="name" required
+                                   class="border border-gray-300 rounded-md px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors" />
+                        </label>   
+                    </div>
+                    
+                    <div>
+                        <label class="flex flex-col">
+                            <span class="mb-2 font-medium text-gray-700">Your Organization:</span> 
+                            <input type="text" name="organization" required
+                                   class="border border-gray-300 rounded-md px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors" />
+                        </label>   
+                    </div>
+                    
+                    <div>
+                        <label class="flex flex-col">
+                            <span class="mb-2 font-medium text-gray-700">Your Email:</span> 
+                            <input type="email" name="email" required
+                                   class="border border-gray-300 rounded-md px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors" />
+                        </label>
+                    </div>
+                    
+                    <div>
+                        <label class="flex flex-col">
+                            <span class="mb-2 font-medium text-gray-700">Message:</span> 
+                            <textarea name="message" rows="5" required
+                                      class="border border-gray-300 rounded-md px-4 py-3 focus:ring-2 focus:ring-blue-500 focus:border-blue-500 transition-colors resize-vertical"></textarea>
+                        </label>
+                    </div>
+                    
+                    <div class="pt-4">
+                        <button class="w-full bg-blue-600 text-white px-8 py-4 rounded-md hover:bg-blue-700 focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition-all duration-200 font-medium text-lg" 
+                                type="submit">
+                            Send Message
+                        </button>
+                    </div>
+                </div>
             </form>
-            
-     
         </div>
-        
-        <script src="" async defer></script>
     </body>
 </html>
